@@ -10,7 +10,7 @@
 ## Запуск
 
 ```bash
-cd projects/work-journal
+cd work-journal
 cp .env.example .env
 docker compose up --build
 ```
