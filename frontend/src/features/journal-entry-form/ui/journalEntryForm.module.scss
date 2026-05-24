@@ -1,0 +1,29 @@
+.panel {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.title {
+  margin: 0 0 1rem;
+  font-size: 1.125rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.error {
+  color: #dc2626;
+  font-size: 0.875rem;
+  margin: 0;
+}
